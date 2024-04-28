@@ -5,7 +5,7 @@ services:
     # Pull the Image from Repository.
     # replace username/repo:tag with your name and image details
     #image: username/repo:tag 
-    image: omii147/swarm:lab
+    image: chaitanyamule/swarm-stack:01
     # Command used to deploy the Service
     deploy:
       # Run 5 instances of that image as a service called web
